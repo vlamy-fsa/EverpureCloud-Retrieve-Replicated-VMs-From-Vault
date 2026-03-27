@@ -1,6 +1,6 @@
 # EverpureCloud-Retrieve-Replicated-VMs-From-Vault
 
-# ASR Replicated VMs Export
+## ASR Replicated VMs Export
 
 PowerShell script to export all replicated VMs from an Azure Recovery Services Vault to a CSV file, including disk details (name, type, size).
 
